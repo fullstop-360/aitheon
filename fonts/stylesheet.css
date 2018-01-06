@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Eurostile';
+    src: url('Eurostile-Medium.eot');
+    src: url('Eurostile-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Eurostile-Medium.woff2') format('woff2'),
+        url('Eurostile-Medium.woff') format('woff'),
+        url('Eurostile-Medium.ttf') format('truetype'),
+        url('Eurostile-Medium.svg#Eurostile-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'futura_md_btbold';
+    src: url('futurabtb-webfont.woff2') format('woff2'),
+         url('futurabtb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'futura_md_btmedium';
+    src: url('futurabtl-webfont.woff2') format('woff2'),
+         url('futurabtl-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
